@@ -2,7 +2,7 @@
 
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
-
+Nick's RStudio Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nspacher/MyRStudio/HEAD?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
